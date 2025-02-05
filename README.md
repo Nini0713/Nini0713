@@ -1,16 +1,25 @@
-## Hi there 👋
+## Profile Bio
 
-<!--
-**Nini0713/Nini0713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Harini Gopalan, a dedicated Computer Science student, with a passion for programming, web development, and innovative problem-solving.
 
-Here are some ideas to get you started:
+👀 What I’m into:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Web Design and Front-End Development
+Exploring advanced technologies and frameworks
+Developing efficient solutions to real-world challenges
+🌱 Currently Learning:
+
+Advanced algorithms and data structures
+Mobile and web application development
+Emerging technologies like AI and IoT
+💻 What I Love:
+
+Building interactive and user-friendly web applications
+Automating tasks for better productivity
+Mentoring and guiding others to explore the tech world
+🚀 Goals:
+
+To develop impactful software solutions that make a difference
+To contribute to open-source projects and collaborative innovations
+To grow as a developer while gaining practical industry experience
+Feel free to connect or collaborate! 😊
